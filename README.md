@@ -1,4 +1,4 @@
-# React-Forum-Training
+# React-Forum-Training ​👶
 🧑‍💻​ Small training project in React, NodeJs, Express and MangoDB 🧑‍💻​ 
 
 
